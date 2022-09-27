@@ -94,6 +94,8 @@ https://www-jstor-org.ezproxy.unibo.it/stable/3048395?seq=4(a paper on Gates of 
 
 https://www.getty.edu/art/collection/object/106FAJ#full-artwork-details Rodin's portrait
 
+https://www.moma.org/documents/moma_catalogue_2797_300190102.pdf MoMa catalogue
+
 **Note for self":**
 
 We can use xceel-sheet to provide a description of out items according to our Conceptual Model.
