@@ -1,1 +1,13 @@
+|Item Name|Description|
+|:----|:----|
+| | |
+|Third Architectural Maquette for “The Gates of Hell”|This model, an extraordinary visual record of Rodin's thought processes and working method, is the third that the artis made after receiving the prized commission for a set of monumental bronze doors. It reveals that by this early date he had already abandoned a strict narrative rendering of Dante's Inferno and discarded the notion of the doors as functional architectural features that would open or close. It was presented to Kojiro Matsukata, Kobe, by Musée Rodin, Paris, prior to 1926; sequestered by French government, 1944; vested in French government under San Francisco Peace Treaty, 1952; transferred from French to Japanese government, 23 January 1959; entered into NMWA, April 1959.|
+|Portrait ofAuguste Rodin by Claudel|There are few known portraits of Rodin. Alongside the work sculpted by Jules Desbois, this bust is indisputably the portrait of the master that has had the greatest impact. Sculpted by Camille Claudel in a naturalistic way around the time between 1886 and 1888. Every little muscle is detailed in the sculptor’s deeply lined face, with its strong nose and forehead. Camille Claudel took Rodin for her model several times, depicting him in drawings and in a painted portrait that is now lost. According to author Edmond Pilon, writing in 1900 for the art journal Iris, Claudel’s work captured “the calm, profound face of genius.” From then on, the bust became a sort of symbol―an official portrait of the artist, featured in major Rodin exhibitions worldwide, from Chicago to Amsterdam, from Prague to New York.|
+|Le Matin Newspaper article about Gates of Hell|Its the An article written by the french playwrite/journalist Serge_Basset who is narrating the conversation he had with Rodin at his home/workshop regarding his sculpture 'The gates of Hell' and how it affected him. The author calls the sculpture as a poetry in stone(translated roughly from french)|
+|Photo of Gates of paradise|Combining a goldsmith's delicacy with a foundryman's bravura, sculptor Lorenzo Ghiberti condensed the Old Testament into ten panels to produce one of the defining masterpieces of the Italian Renaissance. Michelangelo likened the gilded bronze doors of Florence's Baptistery of San Giovanni to the "Gates of Paradise" from where they get their name. These were one of the first and major inspiration for the concept behind Rodin's Gates of Hell.Les Fleurs du mal| |
+|Rodin: The Gates of Hell(1982 Documentary) | |
+|Damned women| |
+|Painting of Ugolin and his children| |
+|Dante's Divine ComedyPrint Edition| |
+|"Rodin's Gatesof Hell" by Albert E. Elsen| |
 
