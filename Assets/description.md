@@ -9,5 +9,5 @@
 |Damned women| Rodin combined two female figures that appear separately in The Gates of Hell to create one of his most boldly erotic works. In this sculpture of impassioned lovers, their straining bodies and projecting limbs manifest the experience of physical pleasure. The pejorative title comes from a poem of the same name in Charles Baudelaire’s Flowers of Evil that portrays lesbians as “damned women,” condemned to Hell for their “unnatural” desires.Rodin has also used this sculpture in his Gates oh hell top right part|
 |Painting of Ugolin and his children| |
 |Dante's Divine ComedyPrint Edition| |
-|"Rodin's Gatesof Hell" by Albert E. Elsen| |
+|"Rodin's Gatesof Hell" by Albert E. Elsen| Albert Edward Elsen (1927-1995) wrote his dissertaion thesis on Rodin's Gates of Hell. He was a distinguished Stanford University professor, Auguste Rodin scholar and modernist art historian.|
 
