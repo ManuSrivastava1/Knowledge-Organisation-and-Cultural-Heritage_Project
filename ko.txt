@@ -1,0 +1,31 @@
+KNOWLEDGE ORGANIZATION 
+A process of mapping, abstraction and analysis of the domain scenario and its chosen items.
+
+CONCEPTUAL MAP
+The first step in the analysis process of our domain and the ten items goes through the branching of a Conceptual Map.
+Here, can be drawn an overall picture with crucial people, places, events closely linked to each other and which link enriches the study experience of the domain.
+An abstraction of the model was subsequently performed through an Entity-Relationships Model (E/R Model). Its formalization allows for a description of data as entities, attributes and relationships. 
+An entity is a real-world "thing" with an independent existence, while attributes are properties that describe entities.
+Attributes may have a single value for a particular entity, such as "Name" for people, or may have a set of values for a particular entity, such as "Producer" for a film or documentary.
+As for databases, in our E-R model, we will have Entity Types, a collection of entities that have the same attributes. For example our "Sculpture", "Book", "Documentary", "Drawing" and "Newspaper article". 
+Both the mapping representations allow for visualization and shape of data.
+
+METADATA ANALYSIS
+The metadata standards used to analyze the collected items have been mainly selected for their relevance with the institutions from which information has been detected.
+Other standards have been chosen to adapt as much as possible to research needs.
+ISBD and MARC21 are perfectly designed for bibliographic information about textual resources; CDWA comprises a useful and massive catalog describing works of art, and so sculptures; VRA Code is a data standard specifically for the description of artistic images and photography.
+
+METADATA ALIGNMENT 
+The full definition of different standards allows proceeding with the next step, which is the alignment of those classes and predicates that, coming from different metadata standards, enrich the addressing of information related to our purposes.
+The results of the alignment are displayed by a series of four tables (WHO, WHAT, WHEN, WHERE), dissecting knowledge each focusing on a specific aspect and related claim: people, subjects and concepts, dates, places.
+
+THEORETICAL MODEL
+After having acquired and analyzed the necessary elements, it's time of developing a Theoretical Model, able to explain the existing theories that support our research, showing that our domain scenario is grounded in established ideas.
+Through a graphical representation and using natural language, all the information collected regarding our items are easily comparable and now also unreachable through additional related entities and links that expand the ramification of our previous map.
+
+CONCEPTUAL MODEL
+From the Theoretical Model, an additional level of abstraction leads to a formalization and to the formal representation of the Conceptual Model. 
+The process consists of substituting the elements of the Theoretical Model with predicates from existing ontologies according to the most suitable classes and properties, able to express the relationships among the items.
+
+KNOWLEDGE REPRESENTATION
+When the data description and organization have been completed, it's time to turn to the items. 
